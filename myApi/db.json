@@ -1,0 +1,77 @@
+{
+  "slots": [
+    {
+      "id": "b277",
+      "slotNumber": "Q3",
+      "status": "vacant"
+    },
+    {
+      "id": "179f",
+      "slotNumber": "D2",
+      "status": "vacant"
+    },
+    {
+      "id": "f352",
+      "slotNumber": "W3",
+      "status": "vacant"
+    },
+    {
+      "id": "2fb5",
+      "slotNumber": "Y7",
+      "status": "vacant"
+    },
+    {
+      "id": "b8fc",
+      "slotNumber": "O9",
+      "status": "vacant"
+    },
+    {
+      "id": "d31d",
+      "slotNumber": "Q1",
+      "status": "vacant"
+    },
+    {
+      "id": "4672",
+      "slotNumber": "E3",
+      "status": "vacant"
+    },
+    {
+      "id": "0be4",
+      "slotNumber": "F5",
+      "status": "vacant"
+    },
+    {
+      "id": "1406",
+      "slotNumber": "R3",
+      "status": "vacant"
+    },
+    {
+      "id": "20d4",
+      "slotNumber": "T5",
+      "status": "vacant"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "ce72",
+      "vehicleNumber": "GJ04AQ6093",
+      "ownerName": "Abv alf",
+      "selectedSlot": "Q1",
+      "status": "parked"
+    },
+    {
+      "id": "5996",
+      "vehicleNumber": "GJ05AB1212",
+      "ownerName": "Sasfs",
+      "selectedSlot": "F5",
+      "status": "parked"
+    },
+    {
+      "id": "979a",
+      "vehicleNumber": "GJ05WE1000",
+      "ownerName": "Lkjasflkj",
+      "selectedSlot": "E3",
+      "status": "left"
+    }
+  ]
+}
