@@ -2,6 +2,8 @@
 
 A modern React application built with **Vite**, **React 19**, **Tailwind CSS**, and **Bootstrap**, designed for fast development and scalable frontend architecture.
 
+[Full Guide to Create a Real-Time Parking Slot Finder Dashboard in ReactJs.](https://www.sevensquaretech.com/build-real-time-parking-slot-finder-dashboard-with-code/)
+
 ---
 
 ## 🚀 Tech Stack
